@@ -57,7 +57,7 @@ body {
 	font-size: 1rem;
 	font-weight: 300;
 	line-height: 1.66667;
-	color: rgba(21, 21, 21, 0.8);
+	color: rgba(0, 0, 0, 0.8);
 	text-align: left;
 	background-color: #ffffff;
 }
@@ -3583,7 +3583,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-light .navbar-brand {
-	color: rgba(0, 0, 0, 0.9);
+	color: #000;
 }
 
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
@@ -3639,15 +3639,15 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-	color: rgba(255, 255, 255, 0.5);
+	color: rgba(0, 0, 0, 0.5);
 }
 
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-	color: rgba(255, 255, 255, 0.75);
+	color: rgba(0, 0, 0, 0.75);
 }
 
 .navbar-dark .navbar-nav .nav-link.disabled {
-	color: rgba(255, 255, 255, 0.25);
+	color: rgba(0, 0, 0, 0.25);
 }
 
 .navbar-dark .navbar-nav .show > .nav-link,
@@ -3658,8 +3658,8 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-toggler {
-	color: rgba(255, 255, 255, 0.5);
-	border-color: rgba(255, 255, 255, 0.1);
+	color: rgba(0, 0, 0, 0.5);
+	border-color: rgba(0, 0, 0, 0.1);
 }
 
 .navbar-dark .navbar-toggler-icon {
@@ -3667,7 +3667,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-text {
-	color: rgba(255, 255, 255, 0.5);
+	color: rgba(0, 0, 0, 0.5);
 }
 
 .navbar-dark .navbar-text a {

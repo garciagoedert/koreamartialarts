@@ -116,7 +116,7 @@ body {
 	font-size: 15px;
 	line-height: 1.66667;
 	font-weight: 300;
-	color: rgba(21, 21, 21, 0.8);
+	color: #000000;
 	background-color: #ffffff;
 	letter-spacing: -0.03em;
 	-webkit-text-size-adjust: none;
@@ -5008,7 +5008,7 @@ html [class*='section-'].section-bottom-0 {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(21, 21, 21, 0.8) 100%);
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #0000008) 100%);
 }
 
 .bg-accent-filter {
@@ -5734,7 +5734,7 @@ html.tablet .ui-to-top {
 
 .rd-navbar {
 	display: none;
-	background: #444141;
+	background: #000000;
 }
 
 .rd-navbar-toggle {
@@ -6640,13 +6640,13 @@ html.tablet .ui-to-top {
 
 .rd-navbar-fixed .rd-navbar-panel {
 	color: #9b9b9b;
-	background: #444141;
+	background: #000000;
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap {
 	color: #ffffff;
-	background: #444141;
-	border: 1px solid #444141;
+	background: #000000;
+	border: 1px solid #000000;
 	box-shadow: 0px 0px 15px rgba(21, 21, 21, 0.35);
 }
 
