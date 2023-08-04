@@ -5997,7 +5997,7 @@ html.tablet .ui-to-top {
 	visibility: hidden;
 	opacity: 0;
 	text-align: left;
-	border: 1px solid #444141;
+	border: 1px solid #000000;
 	transform: translate3d(0, 30px, 0);
 }
 
@@ -6254,7 +6254,7 @@ html.tablet .ui-to-top {
 	top: 0;
 	right: 0;
 	z-index: 1080;
-	background: #444141;
+	background: #000000;
 }
 
 .rd-navbar-static .rd-navbar--has-dropdown {
@@ -6640,7 +6640,7 @@ html.tablet .ui-to-top {
 
 .rd-navbar-fixed .rd-navbar-panel {
 	color: #9b9b9b;
-	background: #000000;
+	background: #525151;
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap {
@@ -6872,3 +6872,6 @@ html.rd-navbar-fixed-linked .page {
 html:not(.ie-11):not(.ios) .parallax-disabled {
 	background-attachment: fixed;
 }
+
+
+/* lazy load */
