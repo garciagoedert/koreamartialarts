@@ -1,0 +1,116 @@
+body {
+	font-family: 'Lato', Arial, sans-serif;
+	color: #989c9b;
+}
+
+.container > header {
+	margin: 0 auto;
+	padding: 1em;
+	text-align: center;
+}
+
+.container > header h1 {
+  font-weight: 600;
+	font-size: 3em;
+	margin: 0;
+}
+
+.wrapper {
+	line-height: 1.5em;
+	margin: 0 auto;
+	padding: 2em 0 3em;
+	width: 90%;
+	max-width: 2000px;
+	overflow: hidden;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background: #fff;
+}
+.th0 {
+    background-color: rgb(147, 139, 139);
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+}
+
+
+.th1 {
+    background-color: orange;
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+}
+.th2 {
+    background-color: rgb(179, 179, 13);
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+}
+.th3 {
+    background-color: rgb(85, 85, 25);
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+}
+.th4 {
+    background-color: green;
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+}
+.th5 {
+    background-color: purple;
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+}
+.th6 {
+    background-color: blue;
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+}
+.th7 {
+    background-color: brown;
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+}
+.th8 {
+    background-color: red;
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+}
+.th9 {
+    background-color: rgb(35, 22, 22);
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+}
+td, th {
+    padding: 1em 1.5em;
+    text-align: left;
+}
+
+tbody th {
+	background-color: #2ea879;
+}
+tbody tr:nth-child(2n-1) {
+    background-color: #f5f5f5;
+    transition: all .125s ease-in-out;
+}
+tbody tr:hover {
+    background-color: rgb(192, 196, 200);
+}
+
+td.rank {
+	text-transform: capitalize;
+}
+
+/* pay button */
+
+/* fim pay button */
